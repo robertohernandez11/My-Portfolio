@@ -49,6 +49,7 @@ h1 {
 
 span {
 	border-bottom: solid 4px yellow;
+	margin-left: -40%;
 }
 h2 {
 	font-family: 'Rouge Script', cursive;
@@ -73,6 +74,16 @@ p {
 	background-color: lightgray;
 }
 
+.copy {
+	text-align: center;
+    color: yellow;
+    font-size: 20px;
+    padding-top: 1%;
+}
+footer {
+	height:40px; 
+	background-color: black;
+}
 
 
 
